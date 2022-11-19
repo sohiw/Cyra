@@ -1,4 +1,4 @@
-### 🔆 Cyra
+# 🔆 Cyra
 
 ## • Simple weather web application using various animations written in HTML - CSS - JS.
 
@@ -17,6 +17,6 @@
 ## • If you are from IRAN be sure to use VPN while visiting Cyra, Used animations are not accessible without vpn.
 
 ## • Check it Out : 
-# [Cyra](http://cyra.fast-page.org)
+## [Cyra](http://cyra.fast-page.org)
 
-# [Telegram](https://t.me/GottSchlaft)
+## [Telegram](https://t.me/GottSchlaft)
