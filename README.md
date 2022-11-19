@@ -2,7 +2,7 @@
 
 ## • Simple weather web application using various animations written in HTML - CSS - JS.
 
-## • Using the "TILT" animation for weather card (Tilt.js also available at github).
+## • Using the "TILT" animation for weather card (Tilt.js also available).
 
 ## • Available in two languages of English & Persian.
 
