@@ -17,6 +17,6 @@
 ## • If you are from IRAN be sure to use VPN while visiting Cyra, Used animations are not accessible witout vpn.
 
 ## • Check it Out : 
-# [Cyra](cyra.fast-page.org)
+# [Cyra](http://cyra.fast-page.org)
 
 ## [Telegram](https://t.me/GottSchlaft)
