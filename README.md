@@ -6,7 +6,7 @@
 
 ## • Available in two languages of English & Persian.
 
-## • The Default city is my homeland Tehran but you can change it to whatever city you would like by changing the last line of both "fa-style.js" & "en-style.js".
+## • The Default city is my homeland Tehran but you can change it to whatever city you would like by changing the last lines of both "fa-style.js" & "en-style.js".
 
 ## • The name Cyra is a name of Persian origin meaning Sun.
 
@@ -14,9 +14,9 @@
 
 ## • if there were any problem running it or building your own version be sure to message me in Telegram, I'll be more than happy to help U ;D
 
-## • If you are from IRAN be sure to use VPN while visiting Cyra, Used animations are not accessible witout vpn.
+## • If you are from IRAN be sure to use VPN while visiting Cyra, Used animations are not accessible without vpn.
 
 ## • Check it Out : 
 # [Cyra](http://cyra.fast-page.org)
 
-## [Telegram](https://t.me/GottSchlaft)
+# [Telegram](https://t.me/GottSchlaft)
