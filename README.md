@@ -13,9 +13,10 @@
 ## • This Project is open-source Feel free to clone & change it however u like.
 
 ## • if there were any problem running it or building your own version be sure to message me in Telegram, I'll be more than happy to help U ;D
-## [Telegram](htttps://t.me/GottSchlaft)
 
 ## • If you are from IRAN be sure to use VPN while visiting Cyra, Used animations are not accessible witout vpn.
 
 ## • Check it Out : 
 # [Cyra](cyra.fast-page.org)
+
+## [Telegram](https://t.me/GottSchlaft)
